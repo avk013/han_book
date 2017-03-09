@@ -258,11 +258,8 @@
 
     /* SEARCHBAR */
     .searchbar {
-        padding: 20px 0;
-        /*background: #ffc107;*/
-        /*background: rgba(247,202,24,0.6);*/
-        background: rgba(0,0,0,0.6);
-        /*border: 2px solid rgba(255, 255, 255, 0.7);*/
+        padding: 20px 0;      
+		background: #febb02;
     }
     form {
         position: relative;
@@ -485,6 +482,7 @@ html body .col-sb-el.hidden_field{
         line-height: 34px;
         background-color: #00BCD4;
         background-color: #FF0000;
+		background-color: #0898ff;
         border-radius: 0px;
         color: #fff;
     }
@@ -1196,7 +1194,7 @@ html body .apart-search .container{
     }
     .apart-search .col-sb-el,
     .apart-search .col-sb-btn {
-        width: 16.5%;
+        width: 10.5%;
     }
     .apart-search.extended .col-sb-el,
     .apart-search.extended .col-sb-btn {
