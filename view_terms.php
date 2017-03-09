@@ -21,11 +21,11 @@
 </div><br />
 <strong>2</strong>. English is the only language offered for the conclusion of the Agreement.
 <br /><br />
-<strong>3</strong>. ProFAIR only acts as an agent finding and booking accommodation for the Guests and it takes no responsibility for accuracy of the information received from the landlord/host of the object to rent. However, the information can be verified and refined if needed upon the Guests&rsquo; query.
+<strong>3</strong>. ProFAIR only acts as an agent finding and booking accommodation for the Guests, and it takes no responsibility for accuracy of the information received from the landlord/host of the object to rent. However, the information can be verified and refined if needed upon the Guests&rsquo; query.
 <br /><br />
 <strong>4</strong>. Additional terms demanded by the landlord (e.g. refundable security deposit) shall be mentioned in the Reservation Agreement but not included in its Total price.
 <br /><br />
-<strong>5</strong>. Reservation <strong>Agreement guarantees accommodation for Guests and guarantees their implicit payment to ProFAIR</strong>. When making a reservation of the property chosen, the Guests accept the Agreement in the whole. In case of force majeure, the Guests should be provided with an equivalent accommodation.
+<strong>5</strong>. Reservation <strong>Agreement guarantees accommodation for the Guests and guarantees their payment to ProFAIR</strong>. When making a reservation of the property chosen, the Guests accept the Agreement in the whole. In case of force majeure, the Guests should be provided with an equivalent accommodation.
 <br /><br />
 <strong>6</strong>. Reservation Agreement comes in force after receipt by ProFAIR the Agreement duly signed and sealed by the Guests&#39; Company head/executive (if business trip) or by the Guest if private.<br/>Duly paid Agreement-Invoice or duly paid single Invoice comes in force as well, and it is considered duly signed with our GTC accepted in the whole.
 <br /><br />
@@ -45,22 +45,21 @@
       8.1. The Guests must observe the rules of so called "Hausordnung", e.g.: no loud sounds/noises made or litter dropped in the house<br/> and in front of it.
 </div><br />
 <div class="ml-22">
-      8.2. If Internet connection provided by the host (LAN / WLAN), the Guests have no right to use any paid websites (e.g. to download content, etc.).   
-      Otherwise, the Guests are solely liable for all costs which incurred in this regard.»
+      8.2. If Internet connection provided by the host (LAN / WLAN), the Guests have no right to use any paid websites (e.g. to download content, etc.). Otherwise, the Guests are solely liable for all costs which incurred in this regard.
 </div>
 <br />
 <h4><strong>9</strong>. Damaging</h4>
 <div class="ml-22">
-In case of any kind of loss/damaging of the rooms / flat / house/accessories/belongings or furniture in these objects made by the Guests, the latter are liable for all costs which incurred in this regard (immediate reimbursement in cash).»
+In case of any kind of loss/damaging of the rooms / flat / house/accessories/belongings or furniture in these objects made by the Guests, the latter are liable for all costs which incurred in this regard (immediate reimbursement in cash).
 </div>
 <br /><br />
 <h4><strong>10</strong>. Terms of payment</h4>
 <div class="ml-22">
     <div style="padding: 3px 0">10.1. Payment for the Services shall be effected by the Guests to ProFAIR strictly in accordance with the Agreement concluded. Unless specially stated in the Agreement, payment methods possible/accepted by ProFAIR are specified on our website. Some payment terms may be updated and refined in the Agreement.</div>
-    <div style="padding: 3px 0">10.2. Payment by a Third Party for and on behalf of the Guests and payment by instalments according to agreed schedule are possible.</div>
+    <div style="padding: 3px 0">10.2. Payments by a Third Party for and on behalf of the Guests and payment by instalments according to agreed schedule are possible.</div>
     <div style="padding: 3px 0">10.3. Schedule for payment by instalments shall be correlated with corresponding cancellation terms, i.e. payment received should be sufficient at any time to cover actual cancellation charge/fee in case the Reservation Agreement is cancelled.</div>
-    <div style="padding: 3px 0">10.4. To secure acceptance of the Guests’ online payments by bank cards and processing of card transactions, ProFAIR co-operates with AS PrivatBank, Riga, as acquiring bank (www.privatbank.lv/en/) and its web interface LiqPay. We accept VISA/MasterCard/Maestro card. The procedure of payment is briefly described in the Agreement.</div>
-    <div style="padding: 3px 0">10.5. LiqPay system ensures 24/7 secure online card payment through the bank protected server under PCI DSS security standard and 3D-Secure technology. ProFAIR and LiqPay never store the Payer’s card information (card number, etc.).</div>
+    <div style="padding: 3px 0">10.4. To secure acceptance of the Guests’ online payments by bank cards and processing of card transactions, ProFAIR co-operates with VISA and MasterCard official service providers – LiqPay and PayOnline processing centers and their acquiring banks respectively: AS PrivatBank, Riga, and JSC Rietumu Banka, Riga. We accept VISA/MasterCard/Maestro card. The procedure of payment is briefly described in the Agreement.</div>
+    <div style="padding: 3px 0">10.5. LiqPay and PayOnline processing centers ensure 24/7 secure online card payment through protected servers under PCI DSS security standard and 3D-Secure technology. ProFAIR and LiqPay never store the Payer’s card information (card number, etc.).</div>
     <div style="padding: 3px 0">10.6. Mistakenly received payments shall be refunded by ProFAIR to the Guests/payers in a manner and time agreed upon.</div>
     <div style="padding: 3px 0">10.7. In case of breach of payment terms by the Guests, they/their Company undertake(s) to unconditionally reimburse corresponding amount and/or cancellation costs as per above GTC.7. Otherwise, the guests lose the right to accommodation and should move out.</div>
     <div style="padding: 3px 0">
@@ -70,9 +69,12 @@ In case of any kind of loss/damaging of the rooms / flat / house/accessories/bel
     </div>
 </div>
 <br />
-<h4><strong>11</strong>. Privacy</h4>
+<h4><strong>11</strong>. Privacy and security</h4>
 <div class="ml-22">
-    and Security Protecting our Customer&#39;s personal information is extremely important to us. The information is kept physically secure and we never share this information with any Third Party. <strong>Neither we nor our acquiring bank store your bank cards data. </strong>
+    <div style="padding: 3px 0">11.1 Privacy and security protecting our Customer's personal information are extremely important to us. Entering and processing of confidential payment data are performed on the side of the processing centers using protected payment forms and protected servers.</div>
+    <div style="padding: 3px 0">11.2. The information is kept physically secure, and the processing centers never share this information with any third party. Even Pro FAIR has no access to Customer’s card details either.</div>
+    <div style="padding: 3px 0">11.3. ProFAIR only stores non-confidential Customer’s data included in the Reservation Agreement/Invoice.</div>
+ </strong>
 </div>
 <br />
 <h4><strong>12</strong>. Miscellaneous</h4>

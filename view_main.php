@@ -22,7 +22,10 @@
 		<div id="searchbar" class="searchbar <?php if ($this->user->is_logged()) { echo "user-logged"; }?>">
 			<div class="searchbar-inner">
 				<!-- Searchbar form -->
-				<form action="/apartment" method="get" v-on="submit:submit">
+                <form action="/apartment">
+                   
+                </form>
+				<form id="getbooking" action="/apartment" method="get">
 				<!--<?php if (!empty($seo_data['aparts'])) { ?>
 					<style>
 						.dont_show_city{
@@ -185,8 +188,8 @@
 						
 						<!-- Search btn -->
 						<div class="col-sb-btn col-xs-12 btn_wrp">
-							<div class="form-group">
-								<button type="submit" class="btn btn-flat btn-primary">
+                                <div class="form-group">
+								<button type="submit" form="getbooking" class="btn btn-flat btn-primary">
 									<div class="form-icon icon-search"></div>
 									<span><?php echo $this->lang->line('L_GEN_BTN_SEARCH_send'); ?></span>
 								</button>
